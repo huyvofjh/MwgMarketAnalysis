@@ -1,5 +1,5 @@
 ## 1. Introduction
-- Shows the market overview of Mobile World Group in Vietnam(market share, net revenue, gross profit, stock market…)
+- Shows the Market Overview of Mobile World Group in Vietnam(Market Share, Net Revenue, Gross Profit, Stock Market…)
 - Answer the question "How Covid-19 has changed E-Commerce in Vietnam and the opportunities of Moblie World Group? "
 - Shows the difficulties and solutions according to data analysis. 
 ## 2. Methodology 
