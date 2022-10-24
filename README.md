@@ -12,4 +12,4 @@
   - Calculate Total trade, Daily Return, Cumulative Return, Moving Average.
   - Visualize data using Matplotlib and Plotly.
  ## 3. Detail Project 
-[View project](https://drive.google.com/file/d/1iffhWpVs-TAmZr5zBmcGAK0_G8VGVPa2/view) to get the detail. 
+[View project](https://drive.google.com/file/d/1iffhWpVs-TAmZr5zBmcGAK0_G8VGVPa2/view) to get details. 
