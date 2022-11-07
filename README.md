@@ -1,5 +1,6 @@
 ## 1. Introduction
 - Shows the Market Overview of Mobile World Group in Vietnam(Market Share, Net Revenue, Gross Profit, Stock Market…)
+- Predict Mwg’s stock price by using LSTM model. [View](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/MwgPredictiveAnalysis%20.ipynb) to get details. 
 - Answer the question "How Covid-19 has changed E-Commerce in Vietnam and the opportunities of Moblie World Group? "
 - Shows the difficulties and solutions according to data analysis. 
 ## 2. Methodology 
