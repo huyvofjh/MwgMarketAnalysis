@@ -12,7 +12,8 @@
   - Calculate Total trade, Daily Return, Cumulative Return, Moving Average.
   - Visualize data using Matplotlib and Plotly.
   - Create price chart, total trade chart, [VN30 heatmap](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/StockAnalysis.ipynb)... 
-  <img src="https://drive.google.com/file/d/17qFGHNJNqsYOY_osdiwAeVGy_u4oJDr0/view?usp=sharing">
+ 
+<img src="https://drive.google.com/file/d/17qFGHNJNqsYOY_osdiwAeVGy_u4oJDr0/view?usp=sharing">
   
 [View](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/MwgAnalysis.ipynb) to get details.
  ## 3. Detail Project 
