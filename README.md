@@ -14,6 +14,11 @@
   - Create price chart, total trade chart, [VN30 heatmap](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/StockAnalysis.ipynb)... 
  
 ![1y](https://user-images.githubusercontent.com/88859966/208396012-adf34209-1b61-4a0a-984e-51b91ec1da9f.png)
+
+  - Use Power BI to create dashboard.
+  
+![mwg](https://user-images.githubusercontent.com/88859966/208445720-4bf89f72-ec59-4ab3-9333-0ff9d1183500.jpg)
+
 [View](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/MwgAnalysis.ipynb) to get details.
  ## 3. Detail Project 
 [View project](https://drive.google.com/file/d/179OjdQUsy6ZIdzz0TWwQ3LOOPm3489e-/view?usp=share_link) to get details. 
