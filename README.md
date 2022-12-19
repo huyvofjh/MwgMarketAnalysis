@@ -13,7 +13,7 @@
   - Visualize data using Matplotlib and Plotly.
   - Create price chart, total trade chart, [VN30 heatmap](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/StockAnalysis.ipynb)... 
  
-![alt text](https://imgur.com/a/gzZYfNx)
+![ing5erdiagram](https://imgur.com/a/gzZYfNx)
 
 [View](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/MwgAnalysis.ipynb) to get details.
  ## 3. Detail Project 
