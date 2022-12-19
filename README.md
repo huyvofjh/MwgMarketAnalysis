@@ -1,8 +1,7 @@
 ## 1. Introduction
-- Shows the Market Overview of Mobile World Group in Vietnam(Market Share, Net Revenue, Gross Profit, Stock Market…)
-- Predict Mwg’s stock price by using LSTM model. [View](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/MwgPredictiveAnalysis%20.ipynb) to get details. 
+- Show the Market Overview of Mobile World Group in Vietnam(Market Share, Net Revenue, Gross Profit, Stock Market…)
 - Answer the question "How Covid-19 has changed E-Commerce in Vietnam and the opportunities of Moblie World Group? "
-- Shows the difficulties and solutions according to data analysis. 
+- Show the difficulties and solutions according to data analysis. 
 ## 2. Methodology 
 - Data Collection
   - Crawl data from CafeF. [View](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/StockWebScraping.ipynb) to get details. 
@@ -13,6 +12,7 @@
   - Calculate Total trade, Daily Return, Cumulative Return, Moving Average.
   - Visualize data using Matplotlib and Plotly.
   - Create price chart, total trade chart, [VN30 heatmap](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/StockAnalysis.ipynb)... 
+  <img src="https://drive.google.com/file/d/17qFGHNJNqsYOY_osdiwAeVGy_u4oJDr0/view?usp=sharing">
   
 [View](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/MwgAnalysis.ipynb) to get details.
  ## 3. Detail Project 
