@@ -21,4 +21,4 @@
 
 [View](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/MwgAnalysis.ipynb) to get details.
  ## 3. Detail Project 
-[View project](https://drive.google.com/file/d/179OjdQUsy6ZIdzz0TWwQ3LOOPm3489e-/view?usp=share_link) to get details. 
+[View project](https://drive.google.com/file/d/1WK5cpW7IkNFVm6AXSRd8mm4Ka2U9bEjh/view?usp=share_link) to get details. 
